@@ -2,6 +2,7 @@
 title: PicGo配置阿里云OSS
 date: 2022-05-20 23:55:14
 tags: 环境配置
+cover:
 ---
 
 # PicGo配置阿里云OSS
