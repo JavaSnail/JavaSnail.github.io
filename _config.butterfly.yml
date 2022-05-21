@@ -3,13 +3,13 @@
 # --------------------------------------
 
 menu:
-  Home: / || fas fa-home
-  Archives: /archives/ || fas fa-archive
-  Tags: /tags/ || fas fa-tags
-  Categories: /categories/ || fas fa-folder-open
-  List||fas fa-list||hide:
-    Music: /music/ || fas fa-music
-    Movie: /movies/ || fas fa-video
+  主页: / || fas fa-home
+  归档: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  其他||fas fa-list||hide:
+    音乐: /music/ || fas fa-music
+    电影: /movies/ || fas fa-video
   # Link: /link/ || fas fa-link
   # About: /about/ || fas fa-heart
 
@@ -35,7 +35,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/JavaSnail || Github
+  # fab fa-github: https://github.com/JavaSnail || Github
   fas fa-envelope: mailto:xuxueli982@163.com || Email
   fab fa-twitter: https://twitter.com/home || Twitter
   fab fa-youtube: https://www.youtube.com/channel/UCB60-Ze5CW_Zok5NDwbkemg || Youtube
@@ -83,7 +83,7 @@ favicon: /img/favicon.png
 # Avatar (頭像)
 avatar:
   img: https://picgo-xuexueli.oss-cn-beijing.aliyuncs.com/images/IMG_0126.JPG
-  effect: false
+  effect: true
 
 # Disable all banner image
 disable_top_img: true
@@ -626,12 +626,12 @@ aside:
   archives: true
   card_author:
     enable: true
-    description:
+    description: You Only Live Once
     button:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/JavaSnail
   card_announcement:
     enable: true
     content: This is my Blog
@@ -691,15 +691,15 @@ newest_comments:
 translate:
   enable: false
   # The text of a button
-  default: 繁
+  default: 简
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
   translateDelay: 0
   # The text of the button when the language is Simplified Chinese
-  msgToTraditionalChinese: '繁'
+  msgToTraditionalChinese: '简'
   # The text of the button when the language is Traditional Chinese
-  msgToSimplifiedChinese: '簡'
+  msgToSimplifiedChinese: '简'
 
 # Read Mode (閲讀模式)
 readmode: true
@@ -768,10 +768,10 @@ note:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
-    # - xxxx
-    # - xxxx
+    - /music/
+    - /no-pjax/
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
@@ -795,22 +795,22 @@ instantpage: false
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
 pangu:
-  enable: false
-  field: site # site/post
+  enable: true
+  field: post # site/post
 
 # Lazyload (圖片懶加載)
 # https://github.com/verlok/vanilla-lazyload
 lazyload:
   enable: false
   field: site # site/post
-  placeholder:
+  placeholder: true
   blur: false
 
 # PWA
 # See https://github.com/JLHwung/hexo-offline
 # ---------------
 pwa:
-  enable: false
+  enable: true
   manifest: /pwa/manifest.json
   apple_touch_icon: /pwa/apple-touch-icon.png
   favicon_32_32: /pwa/32.png
@@ -829,7 +829,7 @@ css_prefix: true
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-    # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="//at.alicdn.com/t/font_3419340_5fwetkxdeyq.css">
   bottom:
     # - <script src="xxxx"></script>
 
