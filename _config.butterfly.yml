@@ -451,8 +451,8 @@ google_adsense:
 site_verification:
   - name: google-site-verification
     content: vmcFL7oNnlCZ-TLbJ7hk8t29-c12nz4FqmO593AGHHA
-  # - name: baidu-site-verification
-    # content: xxxxxxx
+  - name: baidu-site-verification
+    content: code-ccxLIJNNCs
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
