@@ -3,6 +3,7 @@ title: Redis总结
 date: 2021-01-18 13:53:14
 categories: 中间件
 tags: Redis
+cover: https://picgo-xuexueli.oss-cn-beijing.aliyuncs.com/images/redis.png
 ---
 
 ## 概述
