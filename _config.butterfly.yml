@@ -414,7 +414,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: UA-229601935-1
 
 # CNZZ Analytics
 # https://www.umeng.com/
