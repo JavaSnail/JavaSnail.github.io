@@ -2,25 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.xuxueli.top/2022/05/20/PicGo%E9%85%8D%E7%BD%AE%E9%98%BF%E9%87%8C%E4%BA%91OSS/</loc>
-    
-    <lastmod>2022-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.xuxueli.top/2021/01/18/middleware/Redis/</loc>
-    
-    <lastmod>2022-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.xuxueli.top/2021/01/16/%E5%88%86%E5%B8%83%E5%BC%8F/SpringCloud/</loc>
+    <loc>http://www.xuxueli.top/2022/05/22/%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F/</loc>
     
     <lastmod>2022-05-22</lastmod>
     
@@ -64,6 +46,33 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://www.xuxueli.top/2022/05/20/PicGo%E9%85%8D%E7%BD%AE%E9%98%BF%E9%87%8C%E4%BA%91OSS/</loc>
+    
+    <lastmod>2022-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.xuxueli.top/2021/01/18/Redis/</loc>
+    
+    <lastmod>2022-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.xuxueli.top/2021/03/16/SpringCloud/</loc>
+    
+    <lastmod>2022-05-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://www.xuxueli.top/</loc>
@@ -81,7 +90,7 @@
   </url>
   
   <url>
-    <loc>http://www.xuxueli.top/tags/redis/</loc>
+    <loc>http://www.xuxueli.top/tags/Redis/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -89,6 +98,13 @@
   
   <url>
     <loc>http://www.xuxueli.top/tags/SpringCloud/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.xuxueli.top/tags/%E8%A1%8C%E4%B8%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -105,6 +121,13 @@
   
   <url>
     <loc>http://www.xuxueli.top/categories/%E5%88%86%E5%B8%83%E5%BC%8F/</loc>
+    <lastmod>2022-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.xuxueli.top/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
     <lastmod>2022-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
