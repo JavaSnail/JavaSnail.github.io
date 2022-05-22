@@ -1,8 +1,8 @@
 ---
-title: Redis学习笔记
+title: Redis总结
 date: 2021-01-18 13:53:14
-tags: redis
 categories: 中间件
+tags: Redis
 ---
 
 ## 概述

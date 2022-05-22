@@ -1,8 +1,9 @@
 ---
-title: SpringCloud 学习笔记
-date: 2021-01-16 16:04:58
-tags: SpringCloud
+title: SpringCloud学习总结
+date: 2021-03-16 20:04:58
 categories: 分布式
+tags: SpringCloud
+cover: 
 ---
 
 ## SpringCloud介绍
