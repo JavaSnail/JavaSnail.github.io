@@ -105,6 +105,11 @@ include:
 exclude:
 ignore:
 
+algolia:
+  applicationID: '2JJ8HUJDRC'
+  apiKey: '57ae1af82acb0185862c0aa52159a44c'
+  indexName: '...'
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
